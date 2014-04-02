@@ -186,9 +186,6 @@ section.site {
     padding: 5px 5px;
     font-size: 8px;
   }
-  a.fork-me {
-    display: none;
-  }
 }
 @media screen and (min-width: 600px) {
   body {
