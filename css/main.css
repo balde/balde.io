@@ -153,6 +153,9 @@ section.site {
   body {
     padding: 30px 20px 0;
   }
+  #github-ribbon {
+    display: none;
+  }
   img.site {
     float: right;
     display: block;
